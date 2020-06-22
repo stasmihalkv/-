@@ -65,4 +65,5 @@ let invoice = [
     }
 ]
 
+statement(invoice, invoice[0].perfomance)
 
